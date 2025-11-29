@@ -1,0 +1,7 @@
+{
+  "name": "Calories AI",
+  "description": "Smart nutrition tracker powered by Gemini 2.5. Analyze meals via text or photos with instant macro breakdown.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
